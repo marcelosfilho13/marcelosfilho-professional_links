@@ -12,7 +12,7 @@ export default function Profile({mode}) {
     },
     {
       element: "GitHub",
-      src: "https://github.com/Marcelofilho97",
+      src: "https://github.com/marcelosfilho13",
     },
     {
       element: "LinkedIn",
