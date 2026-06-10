@@ -25,10 +25,11 @@ Criação de Experiências Interativas e soluções digitais inclusivas
 📚 Formação
 
 🎓 Bacharelado em Ciência da Computação
-📘 Pós-graduação em Engenharia de Software, Inclusão e Gestão de Projetos
+
+
 ## Fundador da BAG
 
-Sou fundador da YellowBag, uma StartUp Paraense de Impacto Social e Educação Craitiva e Tecnológica, que atua através de movimentos educacionais que unem tecnologia, criatividade e propósito para formar as novas gerações.
+Sou fundador da YellowBagEdu, uma StartUp Paraense de Impacto Social e Educação Craitiva e Tecnológica, que atua através de movimentos educacionais que unem tecnologia, criatividade e propósito para formar as novas gerações.
 
 Criamos cursos e experiências interativas que despertam o protagonismo de crianças, jovens e educadores, com metodologias baseadas em Aprendizagem Criativa, STEAM e Projetos com Sentido.
 
